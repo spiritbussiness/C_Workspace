@@ -1,18 +1,18 @@
+////
+////  main.c
+////  C_Workspace
+////
+////  Created by He Xin on 1/09/2014.
+////  Copyright (c) 2014 He Xin. All rights reserved.
+////
 //
-//  main.c
-//  C_Workspace
+//#include <stdio.h>
 //
-//  Created by He Xin on 1/09/2014.
-//  Copyright (c) 2014 He Xin. All rights reserved.
+//int main(int argc, const char * argv[])
+//{
 //
-
-#include <stdio.h>
-
-int main(int argc, const char * argv[])
-{
-
-    // insert code here...
-    printf("Hello, World!\n");
-    return 0;
-}
-
+//    // insert code here...
+//    printf("Hello, World!\n");
+//    return 0;
+//}
+//

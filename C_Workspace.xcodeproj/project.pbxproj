@@ -28,6 +28,7 @@
 		0F70342719B4829E00C105E9 /* C_Workspace */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = C_Workspace; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F70342A19B4829E00C105E9 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		0F70342C19B4829E00C105E9 /* C_Workspace.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = C_Workspace.1; sourceTree = "<group>"; };
+		0F70343319B482B000C105E9 /* Nan */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Nan; path = ../../Downloads/Nan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +45,7 @@
 		0F70341E19B4829E00C105E9 = {
 			isa = PBXGroup;
 			children = (
+				0F70343319B482B000C105E9 /* Nan */,
 				0F70342919B4829E00C105E9 /* C_Workspace */,
 				0F70342819B4829E00C105E9 /* Products */,
 			);
